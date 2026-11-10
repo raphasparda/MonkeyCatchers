@@ -93,6 +93,19 @@ O login com Google às vezes é recusado dentro do app. Entre com usuário e sen
 O app vai guardando as vendas a cada hora enquanto uma conta está aberta. Em pouco tempo os gráficos se enchem.
 </details>
 
+## Autores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/raphasparda"><img src="https://github.com/raphasparda.png?size=200" width="100" alt="Foto de perfil de raphasparda" /><br /><b>raphasparda</b></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Okumagr"><img src="https://github.com/Okumagr.png?size=200" width="100" alt="Foto de perfil de Okumagr" /><br /><b>Okumagr</b></a>
+    </td>
+  </tr>
+</table>
+
 ---
 
-<sub>Projeto de fã, sem ligação com o PokeIdle, a Nintendo, a Game Freak, a Creatures ou a The Pokémon Company. Usar várias contas ou ferramentas externas pode ir contra as regras do jogo: confira os Termos de Uso do PokeIdle antes. Feito por <a href="https://github.com/raphasparda">Raphael Sparda</a> · SPARDA.dev</sub>
+<sub>Projeto de fã, sem ligação com o PokeIdle, a Nintendo, a Game Freak, a Creatures ou a The Pokémon Company. Usar várias contas ou ferramentas externas pode ir contra as regras do jogo: confira os Termos de Uso do PokeIdle antes.</sub>
