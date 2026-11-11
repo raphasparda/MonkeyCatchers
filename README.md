@@ -56,6 +56,7 @@
 - **Mercado:** o que está subindo, o que está caindo e quanto cada coisa vale agora.
 - **Calculadora de XP:** quanto tempo falta para o nível que você quer.
 - **Farm:** as melhores hunts para o seu Pokémon, com XP, ouro e chance de shiny.
+- **Chances (botão ★ de cada conta):** quanto tempo leva, em cada hunt, para capturar um shiny ou um Pokémon com nota acima de 3,5.
 - **Baú da Twitch** coletado sozinho enquanto a live roda.
 - **Modo leve:** as contas que você não está olhando gastam quase nada do PC.
 - **Copiar e colar** com o botão direito em qualquer tela.
